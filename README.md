@@ -1,5 +1,3 @@
-# Capstone-Group10
-
 # Molecule-Graph-Prediction
 
 ## Abstract
